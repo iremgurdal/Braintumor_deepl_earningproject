@@ -8,7 +8,7 @@ PyTorch kullanılarak uygulanmıştır ve [Brain Tumor MRI Dataset](https://www.
 ---
 
 ## 📂 Veri Seti
-- Kullanılan veri seti: [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets)
+- Kullanılan veri seti:(https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 - Klasör yapısı:
 
 ```
