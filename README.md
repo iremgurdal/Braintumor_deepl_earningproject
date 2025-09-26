@@ -1,14 +1,19 @@
-# Braintumor_deep_learningproject
- Akbank-DeepLearninge-Giris-Bootcampi
+# Akbank-DeepLearninge-Giris-Bootcampi
 
 ## 🧠 Brain Tumor MRI Classification
 
 Bu proje, **MRI (Magnetic Resonance Imaging)** görüntülerinden beyin tümörlerini sınıflandırmak için geliştirilmiş bir **Convolutional Neural Network (CNN)** modelini içerir.
-PyTorch kullanılarak uygulanmıştır ve [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets) üzerinde eğitilmiştir.
+PyTorch kullanılarak uygulanmıştır ve [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) üzerinde eğitilmiştir.
+---
+
+## 📒 Kaggle Notebook
+- Proje kodlarına ve örnek çalıştırmaya buradan ulaşabilirsiniz:
+https://www.kaggle.com/code/iremgurdal/brain-tumor-deeplearningproject?scriptVersionId=263833494
+
 ---
 
 ## 📂 Veri Seti
-- Kullanılan veri seti:(https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+- Kullanılan veri seti: (https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 - Klasör yapısı:
 
 ```
