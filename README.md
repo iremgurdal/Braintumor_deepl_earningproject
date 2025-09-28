@@ -8,7 +8,7 @@ PyTorch kullanılarak uygulanmıştır ve [Brain Tumor MRI Dataset](https://www.
 
 ## 📒 Kaggle Notebook
 - Proje kodlarına ve örnek çalıştırmaya buradan ulaşabilirsiniz:
-https://www.kaggle.com/code/iremgurdal/brain-tumor-deeplearningproject?scriptVersionId=263833494
+(https://www.kaggle.com/code/iremgurdal/brain-tumor-deeplearningproject)
 
 ---
 
